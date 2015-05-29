@@ -1,2 +1,1 @@
-# BoxDevEditionHelper-DotNet
-This is a .NET helper library for the Box Developer Edition. Until full support for Developer Edition is added to the Box SDK for .NET you can use this library to retrieve enterprise and user tokens via JWT.
+After cloning or downloading this repo, go to the BoxDevEditionClientExample project folder and copy the App.config.example file to App.config.  Next, edit App.config to set your various Box config parameters (client id, client secret, etc.).  Then run the BoxDevEditionClientExample project.  If everything is configured correctly you will see some debug info in the console.
