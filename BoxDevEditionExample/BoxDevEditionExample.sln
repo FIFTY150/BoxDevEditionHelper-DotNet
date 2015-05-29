@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxDevEditionClientExample", "BoxDevEditionClientExample\BoxDevEditionClientExample.csproj", "{411242ED-DBF9-4E6F-B380-CC7201E62D64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxDevEditionAuthHelper", "BoxDevEditionAuthHelper\BoxDevEditionAuthHelper.csproj", "{17528765-C3A1-420E-8BCD-B8016C91FD02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411242ED-DBF9-4E6F-B380-CC7201E62D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411242ED-DBF9-4E6F-B380-CC7201E62D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411242ED-DBF9-4E6F-B380-CC7201E62D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411242ED-DBF9-4E6F-B380-CC7201E62D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17528765-C3A1-420E-8BCD-B8016C91FD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17528765-C3A1-420E-8BCD-B8016C91FD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17528765-C3A1-420E-8BCD-B8016C91FD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17528765-C3A1-420E-8BCD-B8016C91FD02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+	<appSettings>
+		<add key="boxClientId" value="zarlqb0ul2u0jdrtgoy60r2o9tdoztvj"/>
+		<add key="boxClientSecret" value="4XULwiuQuwjMs5WwdeFGi6aqP6WtQb3s"/>
+		<add key="boxEnterpriseId" value="372653"/>
+		<add key="boxPrivateKeyPassword" value="mypassword"/>
+		<add key="boxPrivateKey" value="-----BEGIN RSA PRIVATE KEY-----
+Proc-Type: 4,ENCRYPTED
+DEK-Info: AES-256-CBC,89506E1051EC09130CB7BC8FA24B9E33
+
+nzGYHagpwI2Xa2edwWdbrNWEgIOf5rVYR7CM8pJ+FvbKpZTgv9ta0HzgKe+A+bAa
+TQ7hN5Rc8rJEAGMTqvnuHE4EoD1xVFXnZ7m0KrwiTk2jb3RKs5cMq16vH1lgS1ND
+QlYnAJ+QWYuFYTtM6+zhz/HHbRHFR7G2AOQbtkTFCUkIVFW/MxaIDdq0tOxkKmq0
+AyHFiGDw78QcQ62qs2zQquXpe9KtlxEuyPT0h5MfuOyLi9axeiosWXiNFCd0AwpR
+qKbJOpOzBIk7+OE428r/8ikETie1YtcbZtSZNgm5zsg8fztZSy7+COmhF5NNH4Rt
+TbMCNTM1ou6h8v5WGFOAvwnkHtu0ZW5ypnjY/wNshTOLJit5NYgsq++IwUJ7+7+o
+OtjJx+nmbJ5vM3I4ITB4+UreskYjBZETS5Op2I0KupPxJz4kFhFOd7Iv145Dh2NX
+FMMpismy79jB626pCGlQMvMpEtPoQOTJiS9Wl7GnmWhXxfxZZ4yDXii5lD025yt3
+cW6fkaekGP+a0YTW+UHGKSZOsSe650fWp3BhUpiSWgxLQ8clMWBxXWOJZSsbjFwH
+duh+miu3FfHcf2KQ5m8+Da8b34RL9RGaSPkxb9j72nrpCQu2FAxBMcKOx7LIvnN7
+rLQX/GzJauz0F/aJHCaJPwXto182ym/jHs2tz1JpGS+jx18sN8psHwHTI/xgdnD0
+NuXQbdNoqaaImDVmzYt/LbkbPfmoAsrAn84deWgci7up/l+W07CKlU6UZs1jjjlM
+LxQFcUnomJNAHv8y90V8Rg5qD4jUYAjFI9lAtNaxwdyJRRRqONlpaOdKnI8BzE21
+wM5QTwAY1vytXHGX4A/tf+zNlk3R0ZB65AN7Dm/dWlHwz96BRogKO4WOBZe6r4Jv
+SjTCPxAX0BsI0gwaQvW6E2nXW+L27ApZNGueMaiFkGDTkfiXVxL8NEkGwuEita9s
+VBs5XJtCs6kY6BBbqDy5p5oggvEii5kGAIQVR6TEB4jntHLPDoAJIBWNTGuO4B62
+ozXsHqfCDKtw/ICQ4WjyiTZG85NMU0nY2fnysh+codZ8FTTXS7tHosw5oreOIU7H
+d49bropLfyJICqoVwW8IYwL1T03pP77GDaBJxyv0G2815aMNP/T52sj8NAiV3ryA
+1nJKoFqcFUwWXDVMip6Kl6aMXJyy/Faa6Pu/lc4Q+NpjgT5pEYkv6ui/NxqPln1z
+OYVKTN1N4aEtaoZmLXPbcHwbpUz+jF98XAb5ZL5Rx4VA9OPFVsZYbIDm4DDjS2gc
+1ejYfmpCLGtbPB03E115GpUYFWcaQqgnWGwYFhta+QdaTXCoSemzBW4YJovprRnE
+SYbfekFkpJEu8wP2UHQdXR0YKeIisQOkf7gXhMxDzcSJm42v9hB55ZmdZbuKRG/s
+1vO1O+s2OvrJtmwk0eQjPj1KG/UasWjINntGxk7zfw6gevrHQ3E10p37o5zyl+vD
+8FSiijF17AgHU/0jIZIlOBl9ctMS9L8RHPTO+82tiar52y0mwx31iGJur4nLAsIH
+RtFjwHlc8/3BnMW6+oDXo2sHz7GphOb+MX1doFGXeoDflvvbbkeWayd+0DmZ5ErQ
+-----END RSA PRIVATE KEY-----"/>
+	</appSettings>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="System.Net.Http.Primitives" publicKeyToken="b03f5f7f11d50a3a" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-4.2.20.0" newVersion="4.2.20.0" />
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+</configuration>
